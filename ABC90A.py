@@ -1,3 +1,5 @@
+# I first challenged ABC at same time
+
 a = input().split()
 b = input().split()
 c = input().split()
